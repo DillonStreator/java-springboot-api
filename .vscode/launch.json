@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoApplication<mobile-app-ws>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.mobileappws.DemoApplication",
+            "projectName": "mobile-app-ws",
+            "args": ""
+        }
+    ]
+}
